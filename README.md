@@ -1,5 +1,3 @@
 # SpringMVC_Config
 
-######
-
-** SpringMVC常规配置准备工作
+SpringMVC常规配置准备工作
